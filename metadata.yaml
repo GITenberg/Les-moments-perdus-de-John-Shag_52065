@@ -1,5 +1,8 @@
 _repo: Les-moments-perdus-de-John-Shag_52065
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52065-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilbert de Voisins
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '46652'
     url: http://www.gutenberg.org/2009/agents/46652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52065#Les-moments-perdus-de-John-Shag
 gutenberg_bookshelf:
 - FR Littérature
 - FR Poésie
