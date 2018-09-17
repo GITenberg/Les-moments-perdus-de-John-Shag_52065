@@ -1,0 +1,29 @@
+_repo: Les-moments-perdus-de-John-Shag_52065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins
+    aliases:
+    - De Voisins, Gilbert
+    - Voisins, Gilbert de
+    - Voisins, Auguste Gilbert de
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Poésie
+gutenberg_issued: '2016-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52065'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 20th century'
+- GITenberg
+title: Les moments perdus de John Shag
+url: http://www.gutenberg.org/ebooks/52065
